@@ -24,6 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -   JavaScript.
 -   React.
 -   Styled Components.
+-   vite.
 
 ## 📚 Conceitos aprendidos no projeto
 
